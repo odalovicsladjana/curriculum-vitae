@@ -48,7 +48,7 @@ body{
     color:var(--color-white)
 }
 .container{
-    max-width:70rem;
+    max-width:75rem;
     margin:5rem auto;
     background-color:var(--color-grey-light-3);
     -webkit-box-shadow:var(--shadow-dark);
