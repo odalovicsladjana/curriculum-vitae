@@ -132,7 +132,7 @@ body{
     -webkit-box-flex:1;
     -ms-flex:1;
     flex:1;
-    padding:0 3rem
+    padding:0 2rem
 }
 .heading-primary{
     text-transform:uppercase;
