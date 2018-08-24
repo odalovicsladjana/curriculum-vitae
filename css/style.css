@@ -137,7 +137,8 @@ body{
 .heading-primary{
     text-transform:uppercase;
     font-weight:400;
-    font-size:3rem
+    font-size:3rem;
+    float:right;
 }
 .heading-secondary{
     display:inline-block;
@@ -146,7 +147,8 @@ body{
     padding-bottom:1.5rem;
     font-weight:600;
     font-size:1.5rem;
-    line-height:1.2
+    line-height:1.2;
+    float:right;
 }
 .heading-secondary:not(:first-child){
     margin-top:3rem
