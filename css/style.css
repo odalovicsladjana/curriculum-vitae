@@ -106,7 +106,7 @@ ul{
 .profile__image{
     display:block;
     border-radius:20%;
-    border:2px solid --color-primary-dark;
+    border:2px solid --color-grey-dark-1;
     padding:4px;
     width:15rem;
     margin:0 auto;
