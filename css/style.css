@@ -237,9 +237,11 @@ ul{list-style:none}
     display:-ms-flexbox;
     display:flex
 }
+/*
 .expertize__item--skill-bar::before{
     content:;
     background-color:var(--color-grey-dark-2);
     width:90%;
     height:inherit-1px
 }
+*/
